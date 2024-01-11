@@ -2,7 +2,7 @@
 
 QA тестировщик
 
-![image](my/img/фото.jpg)
+![image](/img/фото.jpg)
 
 ### Навыки
 Postman, JIRA, Swagger, Jmeter, HTML&CSS, DevTools, Visual Studio Code, Git, GitHub.
