@@ -18,8 +18,12 @@ Check list, Клиент-серверная архитектура,
 
 ### Соцсети
 [VK](vk.com/hiddeninfo)
+
 [Inst](@freshik228)
+
 [LinkedIn](www.linkedin.com/in/andrey-volchenkov-33022b2a9/)
+
 [Gmail](freshik115@gmail.com)
+
 [Telegram](@richipes228)
 
